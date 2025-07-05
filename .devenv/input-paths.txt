@@ -1,0 +1,7 @@
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/.devenv/flake.json
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/.devenv.flake.nix
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/.env
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/devenv.local.nix
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/devenv.lock
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/devenv.nix
+/Users/thschue/workspace/git/github.com/tsclabs-eu/backstage/devenv.yaml
