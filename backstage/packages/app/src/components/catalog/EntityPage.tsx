@@ -160,12 +160,6 @@ const overviewContent = (
 
     <Grid item md={6}>
         {/* Grafana alert card start */}
-        <EntityGrafanaAlertsCard />
-        {/* Grafana alert card end */}
-    </Grid>
-
-    <Grid item md={6}>
-        {/* Grafana alert card start */}
         <EntityGrafanaDashboardsCard />
         {/* Grafana alert card end */}
     </Grid>
