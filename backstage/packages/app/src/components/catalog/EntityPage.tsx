@@ -51,7 +51,6 @@ import {
 } from '@backstage/catalog-model';
 
 import {
-    EntityGrafanaAlertsCard,
     EntityGrafanaDashboardsCard,
 } from '@k-phoen/backstage-plugin-grafana';
 
