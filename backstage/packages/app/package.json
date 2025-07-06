@@ -42,6 +42,7 @@
     "@backstage/plugin-user-settings": "backstage:^",
     "@backstage/theme": "backstage:^",
     "@jiteshy/backstage-plugin-synergy": "^1.5.2",
+    "@k-phoen/backstage-plugin-grafana": "^0.1.22",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
     "@roadiehq/backstage-plugin-argo-cd": "^2.9.1",

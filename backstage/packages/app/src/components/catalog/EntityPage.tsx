@@ -51,6 +51,11 @@ import {
 } from '@backstage/catalog-model';
 
 import {
+    EntityGrafanaAlertsCard,
+    EntityGrafanaDashboardsCard,
+} from '@k-phoen/backstage-plugin-grafana';
+
+import {
     EntityArgoCDOverviewCard,
     isArgocdAvailable
 } from '@roadiehq/backstage-plugin-argo-cd';
@@ -152,6 +157,19 @@ const overviewContent = (
     <Grid item md={6}>
       <EntityAboutCard variant="gridItem" />
     </Grid>
+
+    <Grid item md={6}>
+        {/* Grafana alert card start */}
+        <EntityGrafanaAlertsCard />
+        {/* Grafana alert card end */}
+    </Grid>
+
+    <Grid item md={6}>
+        {/* Grafana alert card start */}
+        <EntityGrafanaDashboardsCard />
+        {/* Grafana alert card end */}
+    </Grid>
+
     <Grid item md={6} xs={12}>
       <EntityCatalogGraphCard variant="gridItem" height={400} />
     </Grid>
